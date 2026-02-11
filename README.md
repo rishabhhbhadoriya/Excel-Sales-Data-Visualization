@@ -36,4 +36,4 @@ The goal was to turn complex financial data into a visual story that helps in ma
 ---
 **Author:** [Hrishabh]
  [rishabbhadoriya62@gmail.com]
- [LinkedIn Profile](www.linkedin.com/in/hrishabh-bhadoriya-6487bb2ba)
+ [LinkedIn Profile]([)](https://www.linkedin.com/in/hrishabh-bhadoriya-6487bb2ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
